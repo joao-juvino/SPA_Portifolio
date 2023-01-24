@@ -1,0 +1,14 @@
+This favicon was generated using the following font:
+
+- Font Title: Kanit
+- Font Author: Copyright 2020 The Kanit Project Authors (https://github.com/cadsondemak/kanit)
+- Font Source: http://fonts.gstatic.com/s/kanit/v7/nKKZ-Go6G5tXcoaSEQGodLxA.ttf
+- Font License: SIL Open Font License, 1.1 (http://scripts.sil.org/OFL)
+
+- Autor da imagem de background: Fotis Fotopoulos, unsplash
+- Photo by <a href="https://unsplash.com/@czapp_arpad?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Árpád Czapp</a> on <a href="https://unsplash.com/s/photos/programing?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+- Photo by <a href="https://unsplash.com/@arianismmm?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Arian Darvishi</a> on <a href="https://unsplash.com/s/photos/programing?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+- Photo by <a href="https://unsplash.com/@woods?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Joe Woods</a> on <a href="https://unsplash.com/s/photos/background?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+- Photo by <a href="https://unsplash.com/@mitchel3uo?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Mitchell Luo</a> on <a href="https://unsplash.com/s/photos/code?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+- Photo by <a href="https://unsplash.com/@oskaryil?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Oskar Yildiz</a> on <a href="https://unsplash.com/s/photos/programming?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  
